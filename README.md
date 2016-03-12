@@ -2,3 +2,5 @@
 Simple repository
 
 Hello :coffee:
+
+What are we doing now?
